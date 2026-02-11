@@ -1,15 +1,17 @@
-# Hi, I'm Saket Kumar 👋
-### Senior Software Engineer | Backend Specialist | Cloud-Native | Distributed Systems
 
-I'm a Senior Backend Engineer with **13+ years of experience** building scalable, cloud-native, high-performance backend systems using **Kotlin, Java, Go, Spring Boot**, and **event-driven architectures**. I specialize in designing and operating **distributed microservices** on **Google Cloud Platform (GCP), Azure, Kubernetes, OpenShift**, and modern CI/CD pipelines.
+# Hi, I'm Saket Kumar 👋  
+### Senior Software Engineer | Backend Specialist | Cloud‑Native Systems | Distributed Architecture | Generative AI
+
+I'm a Senior Backend Engineer with **13+ years of experience** building scalable, cloud-native, high‑performance backend systems using **Kotlin, Java, Go, Spring Boot**, and **event‑driven architectures**. I specialize in designing and operating **distributed microservices** on **Google Cloud Platform (GCP), Azure, Kubernetes, OpenShift**, and modern CI/CD pipelines.
 
 I focus on:
-- High-traffic backend services  
-- Event-driven and distributed architecture (Kafka, Pub/Sub)  
-- Cloud-native engineering on GCP (Cloud Run, Functions, GKE, SQL, Firestore)  
-- REST APIs, microservices, domain-driven design  
+- High‑traffic backend and real‑time systems  
+- Event‑driven and distributed architecture (**Kafka, Pub/Sub**)  
+- Cloud‑native engineering on GCP (**Cloud Run, Cloud Functions, GKE, Cloud SQL, Firestore**)  
+- REST APIs, microservices, domain‑driven design  
 - Observability, reliability, and performance optimization  
-- Technical leadership and mentoring  
+- Technical leadership, mentoring, and cross‑team collaboration  
+- **Applying Generative AI concepts** to improve developer productivity, automation, and system intelligence *(Google Cloud Certified – Generative AI Leader)*   
 
 ---
 
