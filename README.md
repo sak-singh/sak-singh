@@ -2,7 +2,17 @@
 # Hi, I'm Saket Kumar 👋  
 ### Senior Software Engineer | Backend Specialist | Cloud‑Native Systems | Distributed Architecture | Generative AI
 
-I'm a Senior Backend Engineer with **13+ years of experience** building scalable, cloud-native, high‑performance backend systems using **Kotlin, Java, Go, Spring Boot**, and **event‑driven architectures**. I specialize in designing and operating **distributed microservices** on **Google Cloud Platform (GCP), Azure, Kubernetes, OpenShift**, and modern CI/CD pipelines.
+I am a backend engineer with 12+ years of experience working on major enterprise systems at IKEA, including the iSell platform (SAPI & EBC) and MHS Store Operations services. I work in a hands-on, ownership-driven way — building backend services, improving reliability, and taking responsibility for system stability once solutions reach production.
+
+I am certified as a Google Cloud Generative AI Leader, which has given me a strong foundation in LLMs, embeddings, vector search, and the design principles behind modern AI-powered applications. I haven’t worked deeply with RAG or GxP environments yet, but I understand the concepts well and can pick them up quickly. I already work in environments where reliability, traceability, and proper documentation are essential.
+
+Technically, I work mainly with **Kotlin, Java, C#, Python, and JavaScript**, building cloud‑native microservices running on **Kubernetes/OpenShift**, with extensive experience across **Google Cloud Platform** and **Microsoft Azure**. I also work with modern authentication and security patterns, including **OAuth2** and **JWT‑based access flows**. My work includes event‑driven systems using **Kafka**, backend services backed by **PostgreSQL**, and infrastructure-as-code using **Terraform**, along with Cloud Run, GKE, Secrets Manager, GitHub Actions, and Cloud Build.
+
+My background includes designing and integrating APIs — mostly REST — with practical experience using **GraphQL** for queries and mutations. I also help other teams by creating example projects, writing integration snippets, and troubleshooting issues when they get stuck.
+
+A key part of my work is **modernizing monoliths into API-driven, microservice-based architectures** — breaking tight couplings, designing modular services, and improving performance while maintaining operational stability. I focus on domain-based service separation, API-first design, event-driven patterns, and secure authentication using OAuth and JWT.
+
+Alongside development, I often act as the **technical application support/SPOC** for the platforms I own. When a new release goes live or something breaks in production, I am responsible for investigating incidents, coordinating fixes, and restoring stability as quickly as possible.
 
 I focus on:
 - High‑traffic backend and real‑time systems  
